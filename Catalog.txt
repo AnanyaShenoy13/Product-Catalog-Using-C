@@ -1,0 +1,20 @@
+Quantum Watch|QW001|149.99
+HyperGlo Sneakers|HS002|89.95
+HoloPad Tablet|HT003|599.00
+BioSync Health Band|BH004|79.99
+NeuralSync VR Headset|NV005|249.50
+ChronoBlade Gaming Console|CG006|399.99
+Solaris Power Bank 10000mAh|SPB008|39.99
+EchoBeat Pro Buds|EB009|139.00
+Infinity Desk Lamp|IDL010|59.50
+AquaClean Robot Vacuum|ARV011|299.00
+AeroJet Backpack|AB012|89.95
+LunarGaze Telescope|LT013|199.00
+PixelCanvas Digital Artboard|PCDA014|349.99
+BioBlend Protein Shake Mixer|BPSM015|49.95
+SparkRider Electric Scooter|SRES016|599.00
+TerraGrow Smart Plant Pot|TGSPP017|79.99
+SkyStream Drone Camera|SDC018|159.50
+OmniWrite Smart Pen|OSWP019|129.00
+NeoFit Resistance Bands Set|NFRBS020|29.95
+EchoBeat Pro Buds|EB009|139.00
