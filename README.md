@@ -1,12 +1,12 @@
-===========================================
-      PRODUCT CATALOG MANAGEMENT SYSTEM
-===========================================
+
+ ###   PRODUCT CATALOG MANAGEMENT SYSTEM
 
 This is a C program to manage a product catalog stored in a text file.
 
 -------------------------------------------
-HOW TO RUN:
--------------------------------------------
+
+### HOW TO RUN:
+
 1. Compile the program:
    gcc product.c -o catalog
 
@@ -15,8 +15,9 @@ HOW TO RUN:
    catalog.exe      (on Windows)
 
 -------------------------------------------
-PRODUCT DATA FORMAT (Catalog.txt):
--------------------------------------------
+
+### PRODUCT DATA FORMAT (Catalog.txt):
+
 Each product is stored as a line in the format:
 ProductName|ProductID|Price
 
@@ -24,8 +25,9 @@ Example:
 Quantum Watch|QW001|149.99
 
 -------------------------------------------
-AVAILABLE MENU OPTIONS:
--------------------------------------------
+
+### AVAILABLE MENU OPTIONS:
+
 1. Display All Products
    - Shows all products in a tabular view.
 
@@ -51,5 +53,6 @@ AVAILABLE MENU OPTIONS:
    - Closes the program.
 
 -------------------------------------------
-AUTHOR:
+
+### AUTHOR:
 Ananya Shenoy
